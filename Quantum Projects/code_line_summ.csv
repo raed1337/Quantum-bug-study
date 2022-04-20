@@ -1,0 +1,1320 @@
+files,language,blank,comment,code,name
+63,Jupyter Notebook,0,35813,4873,QuantumKatas
+10,C#,190,220,990,QuantumKatas
+2,Python,116,72,939,QuantumKatas
+36,Visual Studio Solution,35,36,870,QuantumKatas
+40,Markdown,348,0,771,QuantumKatas
+1,TeX,134,27,753,QuantumKatas
+37,MSBuild script,83,0,700,QuantumKatas
+7,JSON,0,0,432,QuantumKatas
+11,PowerShell,100,95,312,QuantumKatas
+1,SVG,1,1,304,QuantumKatas
+4,YAML,26,6,138,QuantumKatas
+1,Bourne Shell,3,1,9,QuantumKatas
+1,XML,2,8,6,QuantumKatas
+214,SUM,1038,36279,11097,QuantumKatas
+179,YAML,463,183,151100,Quantum
+24,JSON,74,0,11937,Quantum
+85,Markdown,1142,0,3582,Quantum
+50,C#,832,1327,3547,Quantum
+23,Jupyter Notebook,0,18743,2322,Quantum
+15,Visual Studio Solution,15,15,1359,Quantum
+2,C/C++ Header,89,48,689,Quantum
+9,PowerShell,169,376,533,Quantum
+14,Python,135,189,471,Quantum
+42,MSBuild script,87,9,461,Quantum
+4,HTML,38,12,389,Quantum
+1,TypeScript,46,10,275,Quantum
+5,JavaScript,33,44,172,Quantum
+2,C++,30,81,123,Quantum
+1,CSS,7,4,73,Quantum
+1,Bourne Shell,11,22,42,Quantum
+5,XML,6,10,42,Quantum
+1,F#,7,13,16,Quantum
+1,DOS Batch,3,0,15,Quantum
+464,SUM,3187,21086,177148,Quantum
+1355,Python,48201,80089,164312,qiskit-terra
+599,YAML,1447,123,12257,qiskit-terra
+104,JSON,0,0,1120,qiskit-terra
+43,TeX,86,0,567,qiskit-terra
+4,Markdown,165,0,503,qiskit-terra
+3,HTML,54,5,382,qiskit-terra
+4,Cython,75,176,309,qiskit-terra
+38,reStructuredText,52,213,77,qiskit-terra
+1,INI,8,0,75,qiskit-terra
+2,make,22,33,75,qiskit-terra
+3,Jupyter Notebook,0,446,51,qiskit-terra
+1,Jinja Template,0,0,25,qiskit-terra
+1,CSS,4,0,23,qiskit-terra
+1,Bourne Shell,4,12,22,qiskit-terra
+1,TOML,1,0,5,qiskit-terra
+2160,SUM,50119,81097,179803,qiskit-terra
+1025,Python,38870,49879,148776,Cirq
+208,JSON,0,0,23753,Cirq
+61,Jupyter Notebook,0,34138,5787,Cirq
+50,Markdown,1355,0,3817,Cirq
+25,TypeScript,337,744,1809,Cirq
+16,YAML,74,53,1134,Cirq
+12,Protocol Buffers,467,1099,872,Cirq
+23,Bourne Again Shell,134,474,497,Cirq
+9,Bourne Shell,90,279,230,Cirq
+11,reStructuredText,133,139,158,Cirq
+2,SVG,0,0,99,Cirq
+5,HTML,3,0,63,Cirq
+2,INI,10,0,41,Cirq
+4,JavaScript,1,2,36,Cirq
+1,make,4,7,9,Cirq
+1,TOML,0,0,4,Cirq
+1455,SUM,41478,86814,187085,Cirq
+16,reStructuredText,5657,1264,16228,qiskit
+35,Python,711,690,2859,qiskit
+2,HTML,50,5,376,qiskit
+8,Markdown,84,0,236,qiskit
+4,YAML,3,0,207,qiskit
+2,CSS,18,8,196,qiskit
+3,JSON,22,0,152,qiskit
+3,Bourne Shell,31,49,78,qiskit
+1,INI,6,0,52,qiskit
+1,Jinja Template,0,0,25,qiskit
+1,make,4,15,9,qiskit
+1,TeX,0,0,6,qiskit
+77,SUM,6586,2031,20424,qiskit
+43,Jupyter Notebook,0,39409,3855,qiskit-tutorials
+10,Markdown,147,0,259,qiskit-tutorials
+3,CSS,20,8,206,qiskit-tutorials
+2,YAML,1,0,69,qiskit-tutorials
+1,Python,35,71,49,qiskit-tutorials
+11,reStructuredText,55,137,36,qiskit-tutorials
+1,HTML,1,0,13,qiskit-tutorials
+1,make,4,15,9,qiskit-tutorials
+72,SUM,263,39640,4496,qiskit-tutorials
+179,YAML,463,183,151100,quantum
+24,JSON,74,0,11937,quantum
+85,Markdown,1142,0,3582,quantum
+50,C#,832,1327,3547,quantum
+23,Jupyter Notebook,0,18743,2322,quantum
+15,Visual Studio Solution,15,15,1359,quantum
+2,C/C++ Header,89,48,689,quantum
+9,PowerShell,169,376,533,quantum
+14,Python,135,189,471,quantum
+42,MSBuild script,87,9,461,quantum
+4,HTML,38,12,389,quantum
+1,TypeScript,46,10,275,quantum
+5,JavaScript,33,44,172,quantum
+2,C++,30,81,123,quantum
+1,CSS,7,4,73,quantum
+1,Bourne Shell,11,22,42,quantum
+5,XML,6,10,42,quantum
+1,F#,7,13,16,quantum
+1,DOS Batch,3,0,15,quantum
+464,SUM,3187,21086,177148,quantum
+116,Python,6191,7309,21133,pyquil
+5,JSON,0,0,11831,pyquil
+11,Markdown,530,0,1735,pyquil
+13,reStructuredText,1346,1660,1475,pyquil
+5,YAML,49,23,378,pyquil
+4,Jupyter Notebook,0,7111,337,pyquil
+3,TOML,16,2,93,pyquil
+2,make,24,6,78,pyquil
+1,INI,7,0,35,pyquil
+2,Bourne Shell,3,0,11,pyquil
+1,CSS,3,4,8,pyquil
+1,Bourne Again Shell,1,0,7,pyquil
+1,HTML,0,0,4,pyquil
+165,SUM,8170,16115,37125,pyquil
+249,Python,9690,13771,31943,OpenFermion
+12,Jupyter Notebook,0,5425,1449,OpenFermion
+8,Markdown,121,0,353,OpenFermion
+4,YAML,12,22,257,OpenFermion
+3,reStructuredText,62,77,139,OpenFermion
+5,Bourne Again Shell,26,90,138,OpenFermion
+3,Bourne Shell,36,100,132,OpenFermion
+2,SVG,0,1,80,OpenFermion
+1,INI,5,0,11,OpenFermion
+1,make,4,7,9,OpenFermion
+2,HTML,1,0,8,OpenFermion
+290,SUM,9957,19493,34519,OpenFermion
+221,Python,13369,23623,44165,qutip
+40,Cython,1579,1483,7783,qutip
+58,reStructuredText,4035,4510,4654,qutip
+7,YAML,46,93,398,qutip
+3,HTML,31,0,332,qutip
+2,C++,2,0,304,qutip
+1,DOS Batch,22,1,156,qutip
+5,Markdown,50,0,135,qutip
+1,make,24,5,124,qutip
+4,TeX,5,0,96,qutip
+2,C/C++ Header,2,0,40,qutip
+3,JavaScript,8,1,37,qutip
+3,INI,4,0,30,qutip
+2,CSS,4,3,27,qutip
+1,TOML,2,4,18,qutip
+1,JSON,0,0,1,qutip
+354,SUM,19183,29723,58300,qutip
+464,Python,39069,41117,98508,pennylane
+43,SVG,31,29,72267,pennylane
+34,Markdown,2216,0,6779,pennylane
+51,reStructuredText,2072,2338,2584,pennylane
+4,JavaScript,507,197,1262,pennylane
+9,HTML,46,30,534,pennylane
+4,CSS,26,14,387,pennylane
+9,YAML,64,17,353,pennylane
+12,TeX,32,65,202,pennylane
+4,make,31,6,140,pennylane
+4,Bourne Shell,17,59,119,pennylane
+6,Dockerfile,35,81,102,pennylane
+3,INI,0,0,11,pennylane
+1,TOML,21,76,8,pennylane
+648,SUM,44167,44029,183256,pennylane
+32,SVG,0,0,6410,openqasm
+13,Python,695,680,2419,openqasm
+27,YAML,44,21,2381,openqasm
+34,TeX,118,469,2049,openqasm
+14,reStructuredText,757,1199,1213,openqasm
+1,ANTLR Grammar,132,43,446,openqasm
+10,Markdown,160,0,321,openqasm
+3,vim script,39,56,253,openqasm
+1,CSS,7,0,28,openqasm
+1,DOS Batch,8,1,26,openqasm
+1,make,5,19,11,openqasm
+2,TOML,0,0,6,openqasm
+139,SUM,1965,2488,15563,openqasm
+232,Python,6918,10479,23793,ProjectQ
+16,C/C++ Header,247,241,1913,ProjectQ
+9,Jupyter Notebook,0,3160,687,ProjectQ
+9,YAML,158,70,664,ProjectQ
+7,reStructuredText,323,218,287,ProjectQ
+1,DOS Batch,36,2,243,ProjectQ
+1,make,30,5,190,ProjectQ
+1,Markdown,69,0,112,ProjectQ
+1,TOML,32,2,108,ProjectQ
+1,SVG,0,0,85,ProjectQ
+1,C++,5,11,51,ProjectQ
+279,SUM,7818,14188,28133,ProjectQ
+200,Julia,3640,4288,12486,Yao.jl
+28,Markdown,351,0,1345,Yao.jl
+1,Jupyter Notebook,0,29,361,Yao.jl
+11,TOML,23,0,206,Yao.jl
+5,YAML,2,0,167,Yao.jl
+1,CSS,7,3,30,Yao.jl
+1,TeX,0,0,13,Yao.jl
+2,JSON,0,0,2,Yao.jl
+249,SUM,4023,4320,14610,Yao.jl
+56,SVG,7,117,47090,qiskit-textbook
+15,JavaScript,3068,2876,20614,qiskit-textbook
+154,Jupyter Notebook,0,762130,15757,qiskit-textbook
+66,Sass,1050,470,3643,qiskit-textbook
+14,Python,269,195,1407,qiskit-textbook
+28,HTML,130,53,998,qiskit-textbook
+14,YAML,99,130,683,qiskit-textbook
+29,Markdown,124,0,294,qiskit-textbook
+1,CSS,54,6,231,qiskit-textbook
+21,JSON,0,0,49,qiskit-textbook
+1,make,13,1,45,qiskit-textbook
+2,Bourne Shell,9,0,31,qiskit-textbook
+2,TeX,0,0,14,qiskit-textbook
+403,SUM,4823,765978,90856,qiskit-textbook
+179,Python,12411,16231,29545,strawberryfields
+32,SVG,28,33,13034,strawberryfields
+7,Markdown,726,0,1847,strawberryfields
+4,JavaScript,507,197,1262,strawberryfields
+20,TeX,121,114,1155,strawberryfields
+10,HTML,85,53,822,strawberryfields
+34,reStructuredText,733,938,737,strawberryfields
+5,CSS,106,28,717,strawberryfields
+8,YAML,31,3,262,strawberryfields
+2,make,43,7,249,strawberryfields
+1,INI,0,0,6,strawberryfields
+302,SUM,14791,17604,49636,strawberryfields
+600,Python,16633,29045,53849,qiskit-aqua
+93,YAML,69,71,1459,qiskit-aqua
+1,Fortran 77,0,317,801,qiskit-aqua
+6,Markdown,294,0,793,qiskit-aqua
+1,Jupyter Notebook,0,1741,284,qiskit-aqua
+3,CSS,20,8,206,qiskit-aqua
+2,make,22,27,56,qiskit-aqua
+2,INI,5,0,47,qiskit-aqua
+63,reStructuredText,73,322,12,qiskit-aqua
+771,SUM,17116,31531,57507,qiskit-aqua
+873,C/C++ Header,36151,58373,178835,QPanda-2
+393,C++,18940,10980,106185,QPanda-2
+91,Python,1908,2196,7431,QPanda-2
+11,Markdown,700,0,1963,QPanda-2
+2,CUDA,154,108,1199,QPanda-2
+4,JSON,6,0,778,QPanda-2
+6,Jupyter Notebook,0,4320,612,QPanda-2
+4,CMake,23,33,119,QPanda-2
+2,make,10,5,62,QPanda-2
+2,YAML,4,1,54,QPanda-2
+1,ANTLR Grammar,11,15,38,QPanda-2
+1,D,2,1,16,QPanda-2
+2,Bourne Shell,1,0,12,QPanda-2
+1392,SUM,57910,76032,297304,QPanda-2
+121,C#,2186,3424,8665,QuantumLibraries
+17,YAML,112,91,1850,QuantumLibraries
+23,Markdown,362,0,765,QuantumLibraries
+17,MSBuild script,105,14,562,QuantumLibraries
+5,Visual Studio Solution,5,5,313,QuantumLibraries
+6,Python,107,158,270,QuantumLibraries
+5,PowerShell,57,17,167,QuantumLibraries
+1,Jupyter Notebook,0,454,61,QuantumLibraries
+3,JSON,0,0,29,QuantumLibraries
+3,XML,5,12,26,QuantumLibraries
+1,DOS Batch,3,0,15,QuantumLibraries
+202,SUM,2942,4175,12723,QuantumLibraries
+187,Lisp,4710,5475,33685,quilc
+8,Markdown,205,0,820,quilc
+3,make,48,26,168,quilc
+4,TeX,63,4,165,quilc
+2,YAML,12,0,86,quilc
+1,C,12,11,59,quilc
+1,Python,12,5,29,quilc
+206,SUM,5062,5521,35012,quilc
+129,C/C++ Header,9312,21936,41408,qpp
+172,C++,9306,12561,40808,qpp
+23,Markdown,2574,0,9131,qpp
+50,Python,2351,4183,8374,qpp
+3,Bazel,75,115,620,qpp
+7,CMake,39,151,443,qpp
+6,YAML,36,30,364,qpp
+12,Bourne Shell,40,240,146,qpp
+1,JSON,0,0,59,qpp
+2,DOS Batch,0,0,41,qpp
+1,INI,4,9,18,qpp
+406,SUM,23737,39225,101412,qpp
+51,Python,1558,1289,6562,Blueqat
+8,PO File,419,766,1033,Blueqat
+11,reStructuredText,291,340,259,Blueqat
+2,YAML,31,1,144,Blueqat
+1,CSS,5,0,29,Blueqat
+1,DOS Batch,8,1,26,Blueqat
+1,JavaScript,0,0,16,Blueqat
+2,Markdown,7,0,15,Blueqat
+1,make,4,6,9,Blueqat
+78,SUM,2323,2403,8093,Blueqat
+64,reStructuredText,1878,2045,4133,dwave-ocean-sdk
+4,YAML,68,2,266,dwave-ocean-sdk
+5,Python,118,219,238,dwave-ocean-sdk
+3,CSS,4,6,51,dwave-ocean-sdk
+2,Markdown,11,0,27,dwave-ocean-sdk
+1,JavaScript,3,0,26,dwave-ocean-sdk
+1,make,4,6,10,dwave-ocean-sdk
+1,TOML,0,0,6,dwave-ocean-sdk
+81,SUM,2086,2278,4757,dwave-ocean-sdk
+555,Python,12471,8908,54435,artiq
+81,Rust,1999,472,15672,artiq
+25,reStructuredText,1002,268,2058,artiq
+3,JSON,4,0,561,artiq
+2,TeX,81,4,463,artiq
+3,SVG,2,2,419,artiq
+1,Nix,41,14,395,artiq
+17,TOML,42,5,243,artiq
+1,DOS Batch,34,6,223,artiq
+5,make,60,6,223,artiq
+1,C,25,12,121,artiq
+4,Markdown,62,0,113,artiq
+1,Assembly,22,45,109,artiq
+1,Jupyter Notebook,0,282,88,artiq
+1,HTML,1,0,13,artiq
+2,JavaScript,0,1,2,artiq
+703,SUM,15846,10025,75138,artiq
+140,C/C++ Header,7418,8689,37619,qiskit-aer
+200,Python,6429,11088,24078,qiskit-aer
+13,C++,644,590,4007,qiskit-aer
+92,YAML,121,11,2699,qiskit-aer
+10,CMake,250,586,1307,qiskit-aer
+10,Markdown,439,0,929,qiskit-aer
+6,JSON,50,0,482,qiskit-aer
+14,reStructuredText,58,178,50,qiskit-aer
+1,INI,4,0,43,qiskit-aer
+1,CSV,0,0,21,qiskit-aer
+1,TOML,0,0,13,qiskit-aer
+1,CSS,2,0,10,qiskit-aer
+1,make,4,15,9,qiskit-aer
+490,SUM,15419,21157,71267,qiskit-aer
+75,C/C++ Header,7060,3522,26075,qsim
+44,C++,1641,1070,8304,qsim
+13,Python,555,487,2661,qsim
+20,Markdown,586,0,2574,qsim
+3,Jupyter Notebook,0,978,1602,qsim
+11,CUDA,371,152,1134,qsim
+10,YAML,41,44,453,qsim
+3,HCL,50,39,337,qsim
+5,Bourne Shell,47,68,232,qsim
+5,make,61,7,195,qsim
+1,Bourne Again Shell,17,46,78,qsim
+1,JSON,0,0,13,qsim
+191,SUM,10429,6413,43658,qsim
+63,C++,2504,1339,12689,qulacs
+43,C,1221,1768,7195,qulacs
+70,C/C++ Header,917,4818,3863,qulacs
+7,CUDA,683,339,3019,qulacs
+8,Markdown,543,0,2561,qulacs
+4,Python,143,1,785,qulacs
+3,CMake,179,118,697,qulacs
+1,CSS,60,20,290,qulacs
+3,HTML,7,28,230,qulacs
+1,JavaScript,43,5,223,qulacs
+2,YAML,32,14,159,qulacs
+3,Bourne Shell,15,3,56,qulacs
+8,DOS Batch,4,0,40,qulacs
+216,SUM,6351,8453,31807,qulacs
+71,Python,10191,17125,31162,quimb
+21,Jupyter Notebook,0,431593,1709,quimb
+11,reStructuredText,213,261,342,quimb
+14,YAML,24,1,338,quimb
+1,DOS Batch,34,2,227,quimb
+1,make,30,6,156,quimb
+3,Markdown,45,0,143,quimb
+1,TeX,9,0,97,quimb
+1,Bourne Again Shell,9,1,74,quimb
+1,CSS,8,0,31,quimb
+1,HTML,1,0,4,quimb
+126,SUM,10564,448989,34283,quimb
+96,Python,2808,4367,9554,qiskit-machine-learning
+4,JSON,0,0,6237,qiskit-machine-learning
+8,Jupyter Notebook,0,4577,1174,qiskit-machine-learning
+40,YAML,29,77,708,qiskit-machine-learning
+3,HTML,51,5,383,qiskit-machine-learning
+4,Markdown,124,0,355,qiskit-machine-learning
+3,CSS,20,8,206,qiskit-machine-learning
+3,Bourne Shell,28,46,82,qiskit-machine-learning
+2,make,26,27,68,qiskit-machine-learning
+2,INI,7,0,62,qiskit-machine-learning
+17,reStructuredText,88,191,45,qiskit-machine-learning
+1,Jinja Template,0,0,17,qiskit-machine-learning
+1,TOML,0,0,3,qiskit-machine-learning
+184,SUM,3181,9298,18894,qiskit-machine-learning
+7,XML,2,5,153735,pyzx
+75,Python,2471,3010,12980,pyzx
+38,Jupyter Notebook,0,110010,4647,pyzx
+1,SVG,0,0,2671,pyzx
+6,JavaScript,127,90,792,pyzx
+6,HTML,52,5,392,pyzx
+4,Markdown,104,0,311,pyzx
+6,reStructuredText,190,85,234,pyzx
+1,Cython,30,186,134,pyzx
+3,DOS Batch,8,1,33,pyzx
+1,YAML,4,2,29,pyzx
+1,INI,11,0,23,pyzx
+1,make,4,6,10,pyzx
+1,Bourne Shell,0,0,3,pyzx
+2,CSS,0,5,2,pyzx
+153,SUM,3003,113405,175996,pyzx
+40,Python,2218,2955,7176,discopy
+23,Jupyter Notebook,0,12605,1905,discopy
+1,Markdown,52,0,123,discopy
+30,reStructuredText,88,308,76,discopy
+1,DOS Batch,8,1,26,discopy
+2,YAML,0,0,19,discopy
+1,make,4,7,9,discopy
+1,JSON,0,0,1,discopy
+99,SUM,2370,15876,9335,discopy
+28,JavaScript,18808,22889,88606,quantum-circuit
+3,Markdown,1369,0,2344,quantum-circuit
+2,JSON,0,0,2053,quantum-circuit
+2,HTML,113,6,419,quantum-circuit
+3,CSV,0,0,75,quantum-circuit
+2,Jupyter Notebook,0,156,37,quantum-circuit
+40,SUM,20290,23051,93534,quantum-circuit
+50,Python,1875,2244,4297,QuCumber
+5,TeX,309,127,3004,QuCumber
+5,Jupyter Notebook,0,2437,497,QuCumber
+6,YAML,53,13,358,QuCumber
+3,Markdown,116,0,311,QuCumber
+1,INI,31,0,136,QuCumber
+12,reStructuredText,86,99,126,QuCumber
+1,make,10,5,37,QuCumber
+1,Bourne Shell,6,10,16,QuCumber
+1,JSON,0,0,12,QuCumber
+85,SUM,2486,4935,8794,QuCumber
+129,Python,5088,6049,17610,amazon-braket-sdk-python
+8,Markdown,402,0,624,amazon-braket-sdk-python
+10,reStructuredText,115,34,292,amazon-braket-sdk-python
+7,YAML,23,23,150,amazon-braket-sdk-python
+1,INI,10,0,82,amazon-braket-sdk-python
+3,JSON,0,0,36,amazon-braket-sdk-python
+1,make,4,6,10,amazon-braket-sdk-python
+1,TOML,0,0,2,amazon-braket-sdk-python
+160,SUM,5642,6112,18806,amazon-braket-sdk-python
+197,Python,8441,17444,93336,qiskit-metal
+130,Jupyter Notebook,0,71700,11924,qiskit-metal
+13,Qt,0,0,4022,qiskit-metal
+7,Sass,927,34,3771,qiskit-metal
+69,reStructuredText,1648,2325,996,qiskit-metal
+18,Markdown,267,0,942,qiskit-metal
+2,SVG,2,2,882,qiskit-metal
+2,HTML,51,5,283,qiskit-metal
+3,CSS,20,8,206,qiskit-metal
+4,YAML,1,66,167,qiskit-metal
+1,INI,4,0,42,qiskit-metal
+2,DOS Batch,15,11,39,qiskit-metal
+1,Bourne Again Shell,8,18,22,qiskit-metal
+1,Jinja Template,0,0,16,qiskit-metal
+1,make,4,15,12,qiskit-metal
+1,Bourne Shell,8,14,11,qiskit-metal
+1,TeX,0,0,7,qiskit-metal
+453,SUM,11396,91642,116678,qiskit-metal
+90,Python,3385,4958,11626,mitiq
+12,Markdown,544,0,1718,mitiq
+7,reStructuredText,283,280,500,mitiq
+2,TeX,45,0,444,mitiq
+10,YAML,38,44,334,mitiq
+2,make,22,7,66,mitiq
+2,JSON,5,0,56,mitiq
+1,DOS Batch,8,1,26,mitiq
+3,INI,1,0,21,mitiq
+1,TOML,0,0,20,mitiq
+1,HTML,10,25,12,mitiq
+131,SUM,4341,5315,14823,mitiq
+188,Python,3552,2028,19675,torchquantum
+1358,YAML,1332,234,18557,torchquantum
+9,Markdown,151,0,552,torchquantum
+37,Bourne Shell,0,0,37,torchquantum
+1592,SUM,5035,2262,38821,torchquantum
+127,Python,4583,5560,17714,qibo
+17,reStructuredText,1096,1363,1508,qibo
+44,Markdown,486,0,1238,qibo
+6,YAML,10,8,141,qibo
+1,SVG,0,0,121,qibo
+2,Jupyter Notebook,0,260,92,qibo
+1,Bourne Shell,1,3,28,qibo
+1,make,5,7,11,qibo
+1,INI,0,0,3,qibo
+200,SUM,6181,7201,20856,qibo
+2187,C/C++ Header,122231,124444,482046,xacc
+74,JSON,4,0,411749,xacc
+521,C++,14239,11324,74180,xacc
+18,JavaScript,8162,7593,29036,xacc
+151,HTML,17988,313,24217,xacc
+2,CSV,0,0,5622,xacc
+80,Python,1141,1125,3935,xacc
+89,reStructuredText,2491,4625,3366,xacc
+2,SVG,0,1,2732,xacc
+8,TeX,328,613,2482,xacc
+20,Markdown,587,0,1830,xacc
+4,Windows Module Definition,13,0,910,xacc
+8,CMake,678,1913,721,xacc
+4,CSS,177,33,699,xacc
+7,ANTLR Grammar,239,198,541,xacc
+4,make,107,91,251,xacc
+5,YAML,21,9,196,xacc
+9,INI,33,2,179,xacc
+1,Jupyter Notebook,0,340,165,xacc
+7,Bourne Shell,17,31,80,xacc
+1,Verilog-SystemVerilog,1,0,31,xacc
+1,Bourne Again Shell,2,0,7,xacc
+3203,SUM,168459,152655,1044975,xacc
+215,C++,5761,6245,60119,tket
+92,Python,2671,3568,13226,tket
+126,C/C++ Header,2707,7840,7608,tket
+5,JSON,0,0,1841,tket
+9,YAML,37,8,1388,tket
+2,HTML,78,0,1062,tket
+26,reStructuredText,375,229,835,tket
+2,Markdown,86,0,206,tket
+2,diff,21,144,97,tket
+1,CMake,2,19,66,tket
+5,Bourne Again Shell,20,70,52,tket
+4,SVG,4,3,37,tket
+1,INI,6,0,22,tket
+1,make,4,6,11,tket
+1,TOML,1,0,7,tket
+492,SUM,11773,18132,86577,tket
+52,C++,1563,2320,7390,intel-qs
+21,m4,293,1428,6951,intel-qs
+51,C/C++ Header,1374,1929,5010,intel-qs
+40,C,748,337,3694,intel-qs
+4,CMake,452,247,2664,intel-qs
+19,Markdown,294,0,883,intel-qs
+7,Jupyter Notebook,0,2585,680,intel-qs
+9,Bourne Shell,108,71,531,intel-qs
+6,Python,138,279,364,intel-qs
+5,YAML,22,19,119,intel-qs
+6,make,31,29,109,intel-qs
+1,DOS Batch,8,1,26,intel-qs
+1,Bourne Again Shell,4,8,20,intel-qs
+1,reStructuredText,13,19,7,intel-qs
+223,SUM,5048,9272,28448,intel-qs
+442,C/C++ Header,25441,43196,133177,staq
+135,C++,8947,11288,38631,staq
+18,Markdown,2438,0,8720,staq
+47,Python,2304,4158,8274,staq
+6,JSON,0,0,1121,staq
+4,Windows Module Definition,13,0,910,staq
+3,Bazel,75,115,620,staq
+6,YAML,36,30,326,staq
+4,CMake,24,107,263,staq
+18,Bourne Shell,45,286,140,staq
+2,Verilog-SystemVerilog,0,0,39,staq
+2,DOS Batch,0,0,24,staq
+1,INI,4,9,18,staq
+688,SUM,39327,59189,192263,staq
+57,Rust,1327,1470,9997,RustQIP
+2,Markdown,43,0,171,RustQIP
+1,TOML,3,0,17,RustQIP
+1,Bourne Shell,2,0,6,RustQIP
+61,SUM,1375,1470,10191,RustQIP
+285,Python,4623,7791,9545,toqito
+9,TeX,481,125,1723,toqito
+132,reStructuredText,909,1398,1172,toqito
+8,SVG,1,1,949,toqito
+6,Markdown,146,0,391,toqito
+1,TOML,6,0,57,toqito
+5,YAML,4,4,43,toqito
+1,DOS Batch,8,1,26,toqito
+1,make,4,7,9,toqito
+448,SUM,6182,9327,13915,toqito
+66,Python,2880,3926,5705,dwave-system
+14,reStructuredText,279,374,237,dwave-system
+2,YAML,43,5,202,dwave-system
+1,CSS,0,0,31,dwave-system
+1,DOS Batch,8,1,27,dwave-system
+2,Markdown,11,0,27,dwave-system
+1,JavaScript,3,0,26,dwave-system
+1,make,5,6,13,dwave-system
+88,SUM,3229,4312,6268,dwave-system
+806,C/C++ Header,55419,72989,276245,tweedledum
+199,C++,6472,8096,35787,tweedledum
+97,Python,2926,2061,10362,tweedledum
+41,reStructuredText,3855,3128,7871,tweedledum
+71,LESS,1177,1532,5535,tweedledum
+28,YAML,462,354,3601,tweedledum
+16,CMake,324,289,1411,tweedledum
+3,SVG,0,1,912,tweedledum
+15,Markdown,229,0,747,tweedledum
+2,HTML,16,0,207,tweedledum
+2,Bourne Shell,28,31,95,tweedledum
+1,Windows Module Definition,7,0,73,tweedledum
+1,Gradle,9,28,70,tweedledum
+1,Pascal,13,33,35,tweedledum
+1,INI,0,0,19,tweedledum
+1,ProGuard,6,5,16,tweedledum
+3,TOML,1,0,16,tweedledum
+1,CUDA,6,9,13,tweedledum
+1,make,6,0,9,tweedledum
+1,XML,0,0,1,tweedledum
+1291,SUM,70956,88556,343025,tweedledum
+628,Python,40406,91590,106742,pyGSTi
+33,HTML,318,77,13676,pyGSTi
+2,CSV,0,0,12002,pyGSTi
+30,Cython,1758,2362,6472,pyGSTi
+90,Jupyter Notebook,0,24623,4412,pyGSTi
+5,YAML,56,60,4076,pyGSTi
+5,CSS,162,112,3015,pyGSTi
+12,C++,522,514,2144,pyGSTi
+10,JavaScript,114,165,643,pyGSTi
+13,Markdown,223,0,620,pyGSTi
+12,C/C++ Header,114,5,608,pyGSTi
+2,TeX,113,23,494,pyGSTi
+7,reStructuredText,79,115,201,pyGSTi
+13,Bourne Shell,41,52,183,pyGSTi
+1,make,30,6,157,pyGSTi
+8,Bourne Again Shell,17,51,49,pyGSTi
+7,JSON,0,0,48,pyGSTi
+1,TOML,2,1,6,pyGSTi
+879,SUM,43955,119756,155548,pyGSTi
+46,Python,2849,3041,6027,dwave-hybrid
+23,reStructuredText,411,588,575,dwave-hybrid
+2,YAML,57,6,198,dwave-hybrid
+1,CSS,0,0,31,dwave-hybrid
+1,JavaScript,3,0,26,dwave-hybrid
+1,make,5,6,13,dwave-hybrid
+74,SUM,3325,3641,6870,dwave-hybrid
+132,C++,4184,2052,34377,Stim
+19,Markdown,2169,0,9963,Stim
+45,Python,1015,1180,4727,Stim
+70,C/C++ Header,893,2164,3790,Stim
+1,Jupyter Notebook,0,733,886,Stim
+6,JavaScript,47,0,425,Stim
+2,YAML,2,13,222,Stim
+3,Bourne Shell,17,16,70,Stim
+1,JSON,0,0,18,Stim
+1,TOML,0,0,3,Stim
+280,SUM,8327,6158,54481,Stim
+19,SVG,1,38,21001,thewalrus
+48,Python,2742,3661,7238,thewalrus
+4,JavaScript,507,197,1262,thewalrus
+10,Jupyter Notebook,0,7665,796,thewalrus
+1,TeX,67,0,563,thewalrus
+9,HTML,48,51,511,thewalrus
+25,reStructuredText,591,705,420,thewalrus
+4,CSS,26,14,386,thewalrus
+4,Markdown,340,0,368,thewalrus
+2,make,39,6,224,thewalrus
+5,YAML,23,13,200,thewalrus
+2,MATLAB,0,13,75,thewalrus
+133,SUM,4384,12363,33044,thewalrus
+61,Julia,1982,1679,8426,PastaQ.jl
+8,Markdown,107,0,340,PastaQ.jl
+3,YAML,2,5,68,PastaQ.jl
+4,TOML,4,0,49,PastaQ.jl
+76,SUM,2095,1684,8883,PastaQ.jl
+292,C++,8416,6564,50227,qcor
+134,C/C++ Header,4381,4076,17461,qcor
+14,JavaScript,2289,2323,8446,qcor
+74,Python,918,964,3415,qcor
+2,SVG,0,1,2733,qcor
+3,ANTLR Grammar,237,168,1543,qcor
+4,CSS,177,33,699,qcor
+23,Markdown,240,0,686,qcor
+21,JSON,0,0,594,qcor
+5,HTML,590,15,574,qcor
+7,CSV,1,0,560,qcor
+3,CMake,586,1725,491,qcor
+3,YAML,6,21,74,qcor
+2,Verilog-SystemVerilog,1,0,62,qcor
+3,reStructuredText,31,29,56,qcor
+7,Bourne Shell,3,10,29,qcor
+2,Bourne Again Shell,4,6,12,qcor
+1,make,4,7,9,qcor
+1,MSBuild script,2,0,8,qcor
+1,INI,0,0,3,qcor
+602,SUM,17886,15942,87682,qcor
+29,Python,664,1226,2187,qtcodes
+9,Jupyter Notebook,0,3510,642,qtcodes
+3,Markdown,78,0,147,qtcodes
+41,SUM,742,4736,2976,qtcodes
+54,Python,3904,4782,9636,dwave-cloud-client
+17,YAML,66,5,349,dwave-cloud-client
+15,reStructuredText,199,218,247,dwave-cloud-client
+1,CSS,0,0,31,dwave-cloud-client
+1,JavaScript,3,0,26,dwave-cloud-client
+1,make,5,6,13,dwave-cloud-client
+89,SUM,4177,5011,10302,dwave-cloud-client
+91,Python,5736,4519,13503,quantumflow-dev
+2,Jupyter Notebook,0,607,504,quantumflow-dev
+22,reStructuredText,123,125,139,quantumflow-dev
+1,CSS,28,4,125,quantumflow-dev
+3,YAML,14,3,117,quantumflow-dev
+2,make,26,9,93,quantumflow-dev
+1,TeX,8,0,33,quantumflow-dev
+2,Markdown,17,0,27,quantumflow-dev
+1,JSON,0,0,8,quantumflow-dev
+1,TOML,3,2,4,quantumflow-dev
+126,SUM,5955,5269,14553,quantumflow-dev
+67,YAML,27,4,23058,qdk-python
+149,Python,2941,4415,12908,qdk-python
+5,CSS,389,359,4249,qdk-python
+11,PowerShell,117,173,484,qdk-python
+11,Markdown,229,0,447,qdk-python
+1,Jupyter Notebook,0,708,145,qdk-python
+3,JavaScript,2,2,39,qdk-python
+1,Protocol Buffers,7,11,24,qdk-python
+1,INI,0,0,9,qdk-python
+249,SUM,3712,5672,41363,qdk-python
+38,Python,1554,2909,6375,krotov
+20,reStructuredText,879,680,2181,krotov
+4,TeX,232,29,1674,krotov
+2,SVG,0,0,1544,krotov
+9,Jupyter Notebook,0,9741,1514,krotov
+2,INI,70,0,296,krotov
+5,YAML,40,3,286,krotov
+3,make,61,13,166,krotov
+2,HTML,8,3,85,krotov
+6,Markdown,29,0,77,krotov
+1,CSS,8,3,28,krotov
+1,diff,20,20,26,krotov
+93,SUM,2901,13401,14252,krotov
+77,C++,2058,1887,14936,quisp
+25,INI,3142,0,9155,quisp
+69,Markdown,929,0,2602,quisp
+73,C/C++ Header,531,424,2501,quisp
+4,Python,296,333,1659,quisp
+16,Bourne Shell,61,23,437,quisp
+9,Gencat NLS,58,0,294,quisp
+5,YAML,5,23,281,quisp
+3,XML,104,0,148,quisp
+1,make,24,0,77,quisp
+3,JSON,0,0,56,quisp
+1,Bourne Again Shell,3,0,19,quisp
+1,TOML,1,1,9,quisp
+287,SUM,7212,2691,32174,quisp
+40,Python,1455,2088,6901,Pulser
+19,Jupyter Notebook,0,8169,2364,Pulser
+6,reStructuredText,108,107,231,Pulser
+2,Markdown,50,0,110,Pulser
+2,YAML,5,6,80,Pulser
+1,JSON,0,0,53,Pulser
+1,DOS Batch,8,1,26,Pulser
+1,INI,2,0,13,Pulser
+1,make,4,7,9,Pulser
+1,TOML,0,0,2,Pulser
+74,SUM,1632,10378,9789,Pulser
+71,Python,2670,4114,11432,c3
+6,Jupyter Notebook,0,4831,1706,c3
+17,reStructuredText,1229,2636,628,c3
+8,Markdown,187,0,497,c3
+8,YAML,28,29,292,c3
+1,JSON,0,0,115,c3
+1,DOS Batch,8,1,26,c3
+1,INI,1,0,13,c3
+1,make,4,7,9,c3
+114,SUM,4127,11618,14718,c3
+43,TypeScript,838,2126,6073,quantum-tensors
+3,JSON,4,0,159,quantum-tensors
+3,JavaScript,2,3,114,quantum-tensors
+2,Markdown,42,0,74,quantum-tensors
+1,YAML,3,0,12,quantum-tensors
+52,SUM,889,2129,6432,quantum-tensors
+25,Python,1414,1251,5257,pennylane-cirq
+4,JavaScript,507,197,1262,pennylane-cirq
+9,HTML,44,30,517,pennylane-cirq
+4,CSS,26,14,387,pennylane-cirq
+15,reStructuredText,276,417,208,pennylane-cirq
+5,YAML,42,0,186,pennylane-cirq
+1,Markdown,128,0,182,pennylane-cirq
+2,make,15,6,54,pennylane-cirq
+65,SUM,2452,1915,8053,pennylane-cirq
+22,Java,320,1567,1771,strangefx
+1,Maven,11,15,246,strangefx
+1,CSS,24,38,113,strangefx
+2,YAML,7,2,28,strangefx
+1,Markdown,4,0,7,strangefx
+1,Gradle,0,0,6,strangefx
+28,SUM,366,1622,2171,strangefx
+24,C++,791,230,4551,ddsim
+21,Python,232,142,999,ddsim
+9,C/C++ Header,226,37,691,ddsim
+2,Markdown,100,0,363,ddsim
+5,YAML,17,1,335,ddsim
+3,Bourne Shell,34,7,148,ddsim
+1,Jupyter Notebook,0,268,39,ddsim
+65,SUM,1400,685,7126,ddsim
+33,Python,1104,1058,4074,amazon-braket-default-simulator-python
+8,Markdown,187,0,349,amazon-braket-default-simulator-python
+2,JSON,0,0,189,amazon-braket-default-simulator-python
+7,YAML,22,23,145,amazon-braket-default-simulator-python
+1,INI,10,0,81,amazon-braket-default-simulator-python
+1,Bourne Shell,4,22,13,amazon-braket-default-simulator-python
+1,reStructuredText,4,0,12,amazon-braket-default-simulator-python
+1,make,4,6,10,amazon-braket-default-simulator-python
+1,TOML,0,0,2,amazon-braket-default-simulator-python
+55,SUM,1335,1109,4875,amazon-braket-default-simulator-python
+54,HTML,5002,0,33999,hybridq
+63,Python,3732,6414,9195,hybridq
+56,YAML,231,29,1265,hybridq
+5,Jupyter Notebook,0,3126,695,hybridq
+4,C/C++ Header,94,115,357,hybridq
+3,Markdown,52,0,218,hybridq
+2,C++,33,37,187,hybridq
+8,Bourne Shell,51,142,122,hybridq
+1,make,5,14,23,hybridq
+196,SUM,9200,9877,46061,hybridq
+341,C#,3821,1725,21593,vein
+2,ANTLR Grammar,228,18,1741,vein
+15,YAML,29,11,678,vein
+4,Bourne Shell,31,8,358,vein
+5,Markdown,106,0,352,vein
+15,MSBuild script,4,0,317,vein
+9,JSON,0,0,278,vein
+1,Visual Studio Solution,1,1,268,vein
+3,XML,0,0,115,vein
+2,Windows Module Definition,0,0,6,vein
+1,PowerShell,0,0,3,vein
+1,DOS Batch,0,0,1,vein
+399,SUM,4220,1763,25710,vein
+20,Python,857,875,2719,amazon-braket-pennylane-plugin-python
+9,HTML,44,30,517,amazon-braket-pennylane-plugin-python
+4,CSS,26,14,387,amazon-braket-pennylane-plugin-python
+7,Markdown,218,0,370,amazon-braket-pennylane-plugin-python
+13,reStructuredText,237,350,182,amazon-braket-pennylane-plugin-python
+6,YAML,19,23,116,amazon-braket-pennylane-plugin-python
+1,INI,10,0,84,amazon-braket-pennylane-plugin-python
+1,make,4,6,10,amazon-braket-pennylane-plugin-python
+1,TOML,0,0,2,amazon-braket-pennylane-plugin-python
+62,SUM,1415,1298,4387,amazon-braket-pennylane-plugin-python
+115,Python,4574,5893,27414,OpenFermion-FQE
+8,C,225,114,2356,OpenFermion-FQE
+3,Cython,180,188,1553,OpenFermion-FQE
+9,C/C++ Header,116,110,1108,OpenFermion-FQE
+1,Jupyter Notebook,0,347,180,OpenFermion-FQE
+20,reStructuredText,157,230,141,OpenFermion-FQE
+3,Bourne Again Shell,15,49,80,OpenFermion-FQE
+2,Markdown,20,0,70,OpenFermion-FQE
+1,YAML,10,14,69,OpenFermion-FQE
+1,INI,3,0,13,OpenFermion-FQE
+1,make,4,6,9,OpenFermion-FQE
+1,Bourne Shell,3,12,5,OpenFermion-FQE
+1,TOML,0,0,3,OpenFermion-FQE
+166,SUM,5307,6963,33001,OpenFermion-FQE
+91,Julia,1461,1291,6002,YaoBlocks.jl
+4,YAML,5,1,114,YaoBlocks.jl
+2,TOML,4,0,49,YaoBlocks.jl
+2,Markdown,5,0,14,YaoBlocks.jl
+1,JSON,0,0,1,YaoBlocks.jl
+100,SUM,1475,1292,6180,YaoBlocks.jl
+34,Julia,655,992,4328,QuantumClifford.jl
+18,Markdown,429,0,1378,QuantumClifford.jl
+4,Jupyter Notebook,0,6490,483,QuantumClifford.jl
+4,TeX,18,4,207,QuantumClifford.jl
+3,YAML,0,2,107,QuantumClifford.jl
+3,TOML,2,0,52,QuantumClifford.jl
+66,SUM,1104,7488,6555,QuantumClifford.jl
+153,C++,7236,13039,32993,scikit-quant
+182,C/C++ Header,3790,13350,8274,scikit-quant
+60,Python,1815,2676,5012,scikit-quant
+10,Jupyter Notebook,0,4916,905,scikit-quant
+21,reStructuredText,210,102,502,scikit-quant
+1,DOS Batch,8,1,26,scikit-quant
+1,Bourne Shell,4,0,18,scikit-quant
+1,make,4,7,9,scikit-quant
+2,TOML,0,0,4,scikit-quant
+431,SUM,13067,34091,47743,scikit-quant
+13,JavaScript,2289,2320,8445,Interlin-q
+18,HTML,2474,54,5993,Interlin-q
+1,SVG,0,0,2671,Interlin-q
+27,Python,904,841,2361,Interlin-q
+6,Jupyter Notebook,0,3839,1256,Interlin-q
+4,CSS,181,33,721,Interlin-q
+5,Markdown,99,0,303,Interlin-q
+13,reStructuredText,53,127,50,Interlin-q
+1,YAML,4,8,31,Interlin-q
+88,SUM,6004,7222,21831,Interlin-q
+1,Cython,431,763,1096,qisjob
+2,HTML,1,0,1087,qisjob
+4,Python,23,86,350,qisjob
+1,Markdown,37,0,179,qisjob
+1,make,9,14,29,qisjob
+9,SUM,501,863,2741,qisjob
+131,Python,4055,3581,17698,z-quantum-core
+3,JSON,0,0,1384,z-quantum-core
+11,YAML,50,45,288,z-quantum-core
+1,reStructuredText,61,15,120,z-quantum-core
+3,make,20,5,71,z-quantum-core
+2,Markdown,31,0,69,z-quantum-core
+1,TOML,6,3,25,z-quantum-core
+1,INI,0,0,4,z-quantum-core
+153,SUM,4223,3649,19659,z-quantum-core
+3,CSS,2516,36,16308,QuantumCircuitOpt.jl
+31,Julia,1748,1467,4099,QuantumCircuitOpt.jl
+10,Markdown,104,0,687,QuantumCircuitOpt.jl
+5,Sass,81,130,270,QuantumCircuitOpt.jl
+5,YAML,0,0,108,QuantumCircuitOpt.jl
+3,TOML,5,0,32,QuantumCircuitOpt.jl
+1,TeX,0,0,10,QuantumCircuitOpt.jl
+58,SUM,4454,1633,21514,QuantumCircuitOpt.jl
+81,Python,631,731,2777,quantumcat
+1,Markdown,29,0,162,quantumcat
+82,SUM,660,731,2939,quantumcat
+49,Python,786,2683,2375,qrand
+8,Markdown,155,0,405,qrand
+1,TOML,7,0,76,qrand
+1,YAML,4,3,67,qrand
+1,TeX,0,0,9,qrand
+60,SUM,952,2686,2932,qrand
+34,Haskell,1041,700,3990,funQ
+1,yacc,29,0,171,funQ
+1,Logos,41,0,167,funQ
+3,YAML,20,64,90,funQ
+2,make,26,12,30,funQ
+1,Markdown,4,0,11,funQ
+1,vim script,5,4,11,funQ
+43,SUM,1166,780,4470,funQ
+35,Julia,572,563,3970,YaoCompiler.jl
+7,Markdown,69,0,211,YaoCompiler.jl
+6,YAML,4,0,154,YaoCompiler.jl
+4,TOML,12,0,90,YaoCompiler.jl
+52,SUM,657,563,4425,YaoCompiler.jl
+127,Python,2277,2869,13596,pytket-extensions
+2,JSON,0,0,6514,pytket-extensions
+26,reStructuredText,283,106,441,pytket-extensions
+5,YAML,38,1,438,pytket-extensions
+14,Markdown,121,0,253,pytket-extensions
+1,Jupyter Notebook,0,107,148,pytket-extensions
+3,Bourne Again Shell,30,27,70,pytket-extensions
+2,INI,6,0,31,pytket-extensions
+180,SUM,2755,3110,21491,pytket-extensions
+16,Jupyter Notebook,0,9414,1873,quantum_software_handson
+5,Python,111,81,351,quantum_software_handson
+1,Markdown,13,0,54,quantum_software_handson
+1,YAML,7,1,28,quantum_software_handson
+1,DOS Batch,8,1,26,quantum_software_handson
+1,make,4,7,9,quantum_software_handson
+1,reStructuredText,7,23,7,quantum_software_handson
+26,SUM,150,9527,2348,quantum_software_handson
+109,C++,8496,10725,36226,liboqs-cpp
+53,C/C++ Header,3749,9750,18722,liboqs-cpp
+18,Markdown,2461,0,8800,liboqs-cpp
+45,Python,2200,3998,8028,liboqs-cpp
+3,Bazel,75,115,620,liboqs-cpp
+6,YAML,36,28,370,liboqs-cpp
+2,CMake,22,106,239,liboqs-cpp
+10,Bourne Shell,29,236,99,liboqs-cpp
+1,JSON,0,0,59,liboqs-cpp
+2,DOS Batch,0,0,32,liboqs-cpp
+1,INI,4,9,18,liboqs-cpp
+250,SUM,17072,24967,73213,liboqs-cpp
+3,JSON,0,0,14807,node-red-contrib-quantum
+68,JavaScript,889,432,4999,node-red-contrib-quantum
+60,HTML,225,17,4005,node-red-contrib-quantum
+7,Markdown,76,0,233,node-red-contrib-quantum
+4,YAML,22,5,102,node-red-contrib-quantum
+3,Bourne Shell,18,22,82,node-red-contrib-quantum
+1,PowerShell,12,13,43,node-red-contrib-quantum
+146,SUM,1242,489,24271,node-red-contrib-quantum
+13,C++,344,139,2330,qcec
+5,C/C++ Header,91,59,378,qcec
+7,YAML,30,11,343,qcec
+6,Python,53,20,339,qcec
+1,Markdown,49,0,210,qcec
+1,TOML,4,0,15,qcec
+33,SUM,571,229,3615,qcec
+12,C++,334,158,2687,qmap
+16,C/C++ Header,253,112,1191,qmap
+7,YAML,48,9,428,qmap
+1,Markdown,55,0,244,qmap
+3,Python,22,40,132,qmap
+1,CMake,12,9,62,qmap
+1,TOML,4,0,17,qmap
+1,CSV,0,0,6,qmap
+42,SUM,728,328,4767,qmap
+20,Julia,443,404,2358,YaoArrayRegister.jl
+4,YAML,5,1,114,YaoArrayRegister.jl
+3,TOML,4,0,42,YaoArrayRegister.jl
+2,Markdown,11,0,23,YaoArrayRegister.jl
+1,JSON,0,0,1,YaoArrayRegister.jl
+30,SUM,463,405,2538,YaoArrayRegister.jl
+2,C/C++ Header,3509,2111,12752,QuESTlink
+1,Mathematica,344,340,1711,QuESTlink
+1,C++,435,319,1639,QuESTlink
+2,Bourne Shell,202,276,1092,QuESTlink
+1,make,104,105,236,QuESTlink
+4,Markdown,75,0,196,QuESTlink
+4,YAML,12,0,157,QuESTlink
+15,SUM,4681,3151,17783,QuESTlink
+46,Python,1026,753,3358,lattice-surgery-compiler
+12,Markdown,123,0,286,lattice-surgery-compiler
+6,YAML,33,14,158,lattice-surgery-compiler
+1,DOS Batch,8,1,26,lattice-surgery-compiler
+1,TOML,4,0,13,lattice-surgery-compiler
+1,make,4,7,9,lattice-surgery-compiler
+67,SUM,1198,775,3850,lattice-surgery-compiler
+28,Jupyter Notebook,0,19853,6722,Quantum-anomaly-detection
+6,Python,194,262,552,Quantum-anomaly-detection
+1,Markdown,3,0,10,Quantum-anomaly-detection
+35,SUM,197,20115,7284,Quantum-anomaly-detection
+17,Python,488,504,1567,cirq-superstaq
+3,YAML,9,3,176,cirq-superstaq
+7,Jupyter Notebook,0,1433,120,cirq-superstaq
+8,Bourne Again Shell,32,61,59,cirq-superstaq
+3,Markdown,14,0,36,cirq-superstaq
+1,TeX,0,0,8,cirq-superstaq
+1,Bourne Shell,2,0,5,cirq-superstaq
+1,INI,0,0,5,cirq-superstaq
+41,SUM,545,2001,1976,cirq-superstaq
+50,Python,1661,1405,6377,ndscan
+3,YAML,7,3,90,ndscan
+4,reStructuredText,66,37,74,ndscan
+1,Markdown,21,0,64,ndscan
+1,DOS Batch,8,1,26,ndscan
+1,SVG,0,0,17,ndscan
+1,make,4,6,9,ndscan
+1,CSS,2,3,8,ndscan
+62,SUM,1769,1455,6665,ndscan
+49,Python,1246,2613,3584,quantum_lab
+6,Markdown,55,0,230,quantum_lab
+2,YAML,27,0,133,quantum_lab
+17,Bourne Shell,20,6,75,quantum_lab
+74,SUM,1348,2619,4022,quantum_lab
+10,JavaScript,2426,2491,9302,qfnn
+33,Python,883,853,2916,qfnn
+29,HTML,314,0,2906,qfnn
+6,Jupyter Notebook,0,1407,1037,qfnn
+3,CSS,244,46,954,qfnn
+26,reStructuredText,55,139,77,qfnn
+1,DOS Batch,8,1,26,qfnn
+1,Bourne Shell,4,0,19,qfnn
+1,make,4,7,9,qfnn
+1,Markdown,3,0,6,qfnn
+1,TOML,0,0,6,qfnn
+112,SUM,3941,4944,17258,qfnn
+23,Jupyter Notebook,0,13484,5392,Quantum_Machine_Learning_Express
+7,Python,963,343,1564,Quantum_Machine_Learning_Express
+6,Markdown,25,0,44,Quantum_Machine_Learning_Express
+1,CSV,0,0,4,Quantum_Machine_Learning_Express
+37,SUM,988,13827,7004,Quantum_Machine_Learning_Express
+1727,C/C++ Header,91089,128700,447345,angel
+986,C++,22127,33626,174903,angel
+461,HTML,7914,3033,129444,angel
+103,C,17756,21948,62490,angel
+18,Bourne Shell,4239,4576,24594,angel
+41,SVG,48,26,14656,angel
+150,reStructuredText,6934,7108,12147,angel
+97,Python,2958,2068,10486,angel
+9,m4,987,98,8997,angel
+71,LESS,1177,1532,5535,angel
+135,JavaScript,100,187,4970,angel
+42,YAML,517,315,4274,angel
+16,PO File,2029,0,4001,angel
+3,TeX,236,26,2047,angel
+27,CMake,397,503,1665,angel
+3,CSS,335,80,1621,angel
+19,Markdown,395,0,1140,angel
+17,make,170,55,679,angel
+20,Jupyter Notebook,0,4768,643,angel
+1,DOS Batch,34,2,228,angel
+1,Perl,31,5,179,angel
+1,Windows Module Definition,7,0,73,angel
+1,Gradle,9,28,70,angel
+1,Unity-Prefab,0,0,53,angel
+1,INI,0,0,19,angel
+1,ProGuard,6,5,16,angel
+1,CUDA,6,9,13,angel
+3,TOML,0,0,8,angel
+1,XML,0,0,1,angel
+3957,SUM,159501,208698,912297,angel
+1,TeX,41,153,620,Quantikz
+3,Julia,76,16,616,Quantikz
+5,Markdown,82,0,204,Quantikz
+3,YAML,0,2,105,Quantikz
+1,Jupyter Notebook,0,257,63,Quantikz
+4,TOML,3,0,29,Quantikz
+17,SUM,202,428,1637,Quantikz
+47,Markdown,1458,0,3677,ABC
+2,C++,32,3,104,ABC
+1,LLVM IR,10,2,36,ABC
+1,Bourne Shell,1,0,16,ABC
+51,SUM,1501,5,3833,ABC
+2,CSS,654,33,14585,QuNet
+1,CSV,0,0,4121,QuNet
+29,Julia,572,919,2129,QuNet
+2,TOML,181,1,838,QuNet
+4,JavaScript,38,72,474,QuNet
+10,XML,0,0,186,QuNet
+2,Jupyter Notebook,0,20997,182,QuNet
+2,Markdown,66,0,141,QuNet
+3,YAML,0,0,32,QuNet
+2,JSON,0,0,27,QuNet
+1,Python,9,15,19,QuNet
+2,HTML,0,0,10,QuNet
+60,SUM,1520,22037,22744,QuNet
+26,Python,2293,4980,7253,filter_functions
+7,Jupyter Notebook,0,56103,906,filter_functions
+1,DOS Batch,34,2,228,filter_functions
+1,make,31,6,160,filter_functions
+3,YAML,20,0,79,filter_functions
+2,Markdown,30,0,69,filter_functions
+4,TeX,12,8,54,filter_functions
+3,reStructuredText,32,62,38,filter_functions
+1,INI,0,0,7,filter_functions
+48,SUM,2452,61161,8794,filter_functions
+19,Python,257,141,1436,quantum_pokemon-fight
+1,Jupyter Notebook,0,1304,275,quantum_pokemon-fight
+2,YAML,4,0,131,quantum_pokemon-fight
+10,CSV,0,0,38,quantum_pokemon-fight
+1,Markdown,11,0,37,quantum_pokemon-fight
+1,INI,4,0,29,quantum_pokemon-fight
+1,JSON,0,0,23,quantum_pokemon-fight
+35,SUM,276,1445,1969,quantum_pokemon-fight
+16,C/C++ Header,791,443,4609,dd_package
+4,C++,354,163,1646,dd_package
+1,SVG,0,6,1012,dd_package
+6,YAML,19,25,281,dd_package
+1,Markdown,31,0,75,dd_package
+28,SUM,1195,637,7623,dd_package
+111,Python,2452,6147,8651,mindquantum
+18,C/C++ Header,171,328,2005,mindquantum
+15,CMake,397,558,1927,mindquantum
+11,Jupyter Notebook,0,6455,910,mindquantum
+10,Markdown,359,0,756,mindquantum
+3,YAML,15,17,245,mindquantum
+4,C++,24,65,178,mindquantum
+1,TOML,22,13,64,mindquantum
+3,Bourne Shell,23,41,51,mindquantum
+1,DOS Batch,3,0,24,mindquantum
+177,SUM,3466,13624,14811,mindquantum
+34,Python,471,645,1983,qleet
+6,Markdown,95,0,233,qleet
+3,Jupyter Notebook,0,992,163,qleet
+1,YAML,9,4,90,qleet
+6,reStructuredText,73,107,80,qleet
+1,TOML,2,0,57,qleet
+1,DOS Batch,8,1,26,qleet
+1,make,4,7,9,qleet
+2,INI,1,0,7,qleet
+1,Bourne Shell,1,0,6,qleet
+56,SUM,664,1756,2654,qleet
+33,Python,1373,2647,4857,myqlm-interop
+1,Markdown,12,0,24,myqlm-interop
+1,Bourne Shell,2,7,8,myqlm-interop
+1,Groovy,2,9,2,myqlm-interop
+36,SUM,1389,2663,4891,myqlm-interop
+23,Python,567,738,2173,ae_qml
+2,YAML,3,1,353,ae_qml
+4,Bourne Shell,22,35,187,ae_qml
+3,Markdown,32,0,92,ae_qml
+32,SUM,624,774,2805,ae_qml
+13,Python,355,42,1804,qibojit
+1,C++,59,48,246,qibojit
+3,YAML,4,3,88,qibojit
+1,Markdown,6,0,12,qibojit
+18,SUM,424,93,2150,qibojit
+7,C++,207,73,1323,qibotf
+7,Python,161,59,722,qibotf
+3,YAML,4,4,116,qibotf
+4,C/C++ Header,45,37,110,qibotf
+2,Bourne Shell,15,30,53,qibotf
+1,make,20,6,46,qibotf
+1,Markdown,9,0,19,qibotf
+25,SUM,461,209,2389,qibotf
+107,Python,1694,983,65346,quantum-benchmarks
+2,Bourne Shell,22,5,71,quantum-benchmarks
+1,Markdown,13,0,14,quantum-benchmarks
+110,SUM,1729,988,65431,quantum-benchmarks
+33,C++,1294,782,9376,qfr
+21,C/C++ Header,445,176,2178,qfr
+4,SVG,0,174,1121,qfr
+7,YAML,21,9,327,qfr
+2,Markdown,61,0,155,qfr
+2,Python,16,6,93,qfr
+1,TOML,4,0,15,qfr
+70,SUM,1841,1147,13265,qfr
+38,Python,969,582,2625,BoSS
+2,Markdown,73,0,208,BoSS
+1,TOML,4,0,20,BoSS
+41,SUM,1046,582,2853,BoSS
+22,Jupyter Notebook,0,6694,3651,holopy
+12,Python,330,1128,1392,holopy
+2,Markdown,5,0,18,holopy
+36,SUM,335,7822,5061,holopy
+64,Python,4448,6017,18373,Master_thesis_QEC_simulation
+10,Jupyter Notebook,0,3283,3293,Master_thesis_QEC_simulation
+1,Markdown,18,0,59,Master_thesis_QEC_simulation
+75,SUM,4466,9300,21725,Master_thesis_QEC_simulation
+33,Python,974,1010,4421,dqva-and-circuit-cutting
+5,Jupyter Notebook,0,6386,1959,dqva-and-circuit-cutting
+4,C,61,57,805,dqva-and-circuit-cutting
+1,Markdown,14,0,23,dqva-and-circuit-cutting
+1,JSON,0,0,3,dqva-and-circuit-cutting
+44,SUM,1049,7453,7211,dqva-and-circuit-cutting
+18,Python,420,753,2290,qc-ga
+2,Jupyter Notebook,0,763,261,qc-ga
+1,Markdown,2,0,5,qc-ga
+21,SUM,422,1516,2556,qc-ga
+118,Python,8082,3476,25148,qupulse
+19,JSON,0,0,20991,qupulse
+4,SVG,72,4,3138,qupulse
+80,MATLAB,738,740,2506,qupulse
+21,Jupyter Notebook,0,26107,979,qupulse
+9,reStructuredText,115,51,262,qupulse
+1,Windows Resource File,121,0,257,qupulse
+4,YAML,21,5,121,qupulse
+2,Markdown,25,0,59,qupulse
+1,DOS Batch,8,1,26,qupulse
+1,TOML,1,0,9,qupulse
+1,make,4,7,9,qupulse
+1,INI,0,0,6,qupulse
+2,Cucumber,0,0,3,qupulse
+264,SUM,9187,30391,53514,qupulse
+234,C/C++ Header,6583,9962,29890,triqs
+273,C++,3649,4467,11617,triqs
+168,Python,3071,5267,8313,triqs
+213,reStructuredText,4177,1785,6006,triqs
+5,Markdown,334,0,1132,triqs
+15,CMake,154,224,713,triqs
+1,CSS,79,20,350,triqs
+1,Windows Resource File,18,0,199,triqs
+3,HTML,15,7,144,triqs
+2,TeX,10,0,122,triqs
+3,YAML,6,3,77,triqs
+2,Ruby,13,5,59,triqs
+1,vim script,15,9,26,triqs
+1,NAnt script,5,0,22,triqs
+1,Bourne Shell,7,6,13,triqs
+1,diff,0,8,4,triqs
+2,JavaScript,0,13,2,triqs
+926,SUM,18136,21776,58689,triqs
+171,Lisp,2723,2622,15931,qvm
+7,Markdown,294,0,829,qvm
+1,make,43,41,156,qvm
+3,YAML,15,2,80,qvm
+1,Python,9,10,50,qvm
+3,Bourne Shell,10,6,48,qvm
+186,SUM,3094,2681,17094,qvm
+58,Python,2329,3628,7192,SimulaQron
+17,reStructuredText,578,176,1197,SimulaQron
+2,make,61,5,264,SimulaQron
+1,DOS Batch,37,2,245,SimulaQron
+3,Markdown,54,0,186,SimulaQron
+3,JSON,0,0,124,SimulaQron
+4,YAML,6,0,117,SimulaQron
+5,Bourne Shell,19,1,22,SimulaQron
+1,SVG,0,0,9,SimulaQron
+94,SUM,3084,3812,9356,SimulaQron
+195,JavaScript,4018,9626,27717,Quirk
+2,JSON,0,0,3765,Quirk
+6,HTML,24,13,373,Quirk
+3,Markdown,48,0,96,Quirk
+1,YAML,0,0,27,Quirk
+207,SUM,4090,9639,31978,Quirk
+143,HTML,5301,1279,137791,QuEST
+11,C/C++ Header,3867,8290,14164,QuEST
+9,C++,2737,1443,8259,QuEST
+11,C,2051,1505,7985,QuEST
+1,CUDA,680,427,2889,QuEST
+4,CSS,366,117,1904,QuEST
+7,JavaScript,112,303,1534,QuEST
+2,Markdown,136,0,532,QuEST
+1,make,95,114,214,QuEST
+2,CMake,35,20,201,QuEST
+5,YAML,40,0,172,QuEST
+1,XML,4,6,118,QuEST
+197,SUM,15424,13504,175763,QuEST
+374,C#,8887,15388,46976,qsharp-compiler
+197,F#,9389,5903,39928,qsharp-compiler
+82,LLVM IR,529,3,6384,qsharp-compiler
+33,Markdown,812,4,2100,qsharp-compiler
+46,XML,171,126,2074,qsharp-compiler
+56,MSBuild script,186,67,1676,qsharp-compiler
+10,TypeScript,144,142,1010,qsharp-compiler
+8,Visual Studio Solution,8,8,971,qsharp-compiler
+19,PowerShell,213,182,940,qsharp-compiler
+7,C++,168,71,626,qsharp-compiler
+21,JSON,4,0,529,qsharp-compiler
+2,ANTLR Grammar,80,23,374,qsharp-compiler
+7,YAML,66,14,367,qsharp-compiler
+3,C/C++ Header,98,34,161,qsharp-compiler
+2,Python,33,40,157,qsharp-compiler
+1,CMake,12,6,57,qsharp-compiler
+1,Dockerfile,7,2,57,qsharp-compiler
+2,XAML,11,0,53,qsharp-compiler
+871,SUM,20818,22013,104440,qsharp-compiler
+250,C/C++ Header,20214,44837,110543,OpenQL
+201,C++,8938,11462,47661,OpenQL
+33,JSON,426,0,17516,OpenQL
+4,JavaScript,12,117,11361,OpenQL
+58,Python,1885,1428,6785,OpenQL
+31,reStructuredText,1187,699,3082,OpenQL
+11,SWIG,769,7,2715,OpenQL
+1,HTML,0,1,1997,OpenQL
+8,Markdown,289,0,1136,OpenQL
+8,Bourne Shell,67,21,502,OpenQL
+9,CMake,56,130,453,OpenQL
+6,YAML,30,135,406,OpenQL
+1,XML,5,7,179,OpenQL
+1,Jupyter Notebook,0,450,112,OpenQL
+2,make,8,7,19,OpenQL
+1,INI,1,0,3,OpenQL
+1,DOS Batch,0,0,2,OpenQL
+626,SUM,33887,59301,204472,OpenQL
+55,Python,2240,3677,8664,QGL
+2,Markdown,106,0,348,QGL
+5,Jupyter Notebook,0,31631,143,QGL
+3,Bourne Shell,30,13,106,QGL
+2,YAML,11,2,79,QGL
+67,SUM,2387,35323,9340,QGL
+79,Bourne Shell,524,239,197081,HPhi
+69,C,2876,6684,24162,HPhi
+214,reStructuredText,5691,1662,10260,HPhi
+6,SVG,1020,6,10129,HPhi
+8,PO File,1231,1973,4201,HPhi
+83,C/C++ Header,850,1622,3503,HPhi
+27,Python,302,557,1964,HPhi
+5,Fortran 90,0,827,1313,HPhi
+12,Markdown,57,0,234,HPhi
+2,YAML,21,0,119,HPhi
+5,CMake,14,14,66,HPhi
+1,DOS Batch,8,1,27,HPhi
+1,make,4,6,10,HPhi
+512,SUM,12598,13591,253069,HPhi
