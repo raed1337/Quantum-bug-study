@@ -1,2 +1,5 @@
 # Quantum-bug-study
-Study of the bug charateristics in the quantum ecosystem
+This repository is a companion page for the following paper 
+Study of the bug charateristics in the quantum ecosystem.
+
+This paper is implemented in python language with jupyter notebook.
